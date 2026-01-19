@@ -1,7 +1,7 @@
 public class Prova
 {
  public void main ()
-n,bkhbklhb
+Vlad
 }
 
 Nova linia Dani
