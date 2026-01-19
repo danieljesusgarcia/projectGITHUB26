@@ -2,7 +2,10 @@ public class Prova
 {
  public void main ()
 }
+
 2Nova Linia David
+Nova linia Cin
+Nova Linia David
 ___Coses noves
 jean
 Xavier Sans Alfara
